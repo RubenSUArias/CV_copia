@@ -8,4 +8,5 @@ Carpeta con imagenes.
 # Uso 
 Actualiza los logos y rellena los textos con la información personal. 
 # Resultado 
-![image](https://github.com/user-attachments/assets/17b71430-d3b6-40eb-84eb-c6636667fba1)
+![image](https://github.com/user-attachments/assets/84af45c7-1c77-4ece-b8d0-e6f50dd7fbbe)
+

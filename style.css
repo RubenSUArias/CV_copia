@@ -1,0 +1,134 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600&display=swap');
+.exo-2-fuente {
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+
+body {
+    display: flex;
+    font-family: "Exo 2", sans-serif;
+    margin: 20px;
+    padding: 20px;
+    max-width: 700px;
+    align-items: right;
+    margin: auto;
+}
+
+h1, h2 {
+    color: #03284f;
+    background:linear-gradient(-90deg,#ffffff 0%, #e2dbdb 96%,#d4c3c3 100%);
+    padding: 5px;
+    border-radius: 5px;
+    text-align: right;
+    
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 5px 0;
+}
+.contacto {
+    
+    background:linear-gradient(90deg, #eae3e3 0%, #a79797 95%,#6c6969 98%, #0f0e0e 100%);
+    margin-bottom: 20px;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 1px solid #3d1c1c;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-between;
+    font-size: small;
+    font-family: 'Chakra Petch', sans-serif;
+    width: 240px;
+    gap:10px;
+
+}
+.formacion {
+    width: 480px;
+    background:linear-gradient(-90deg,#eae3e3 0%, #a79797 96%,#6c6969 99%, #0f0e0e 100%);
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+.perfil {
+    width: 210px;
+    height: 210px;
+    border-radius: 10px;
+    
+}
+.imagen {
+    flex-shrink: 0;
+}
+.Info {
+    flex: 1;
+    padding-right: 10px;
+}
+
+.imgnlink {
+    width:15px;
+    height: 15px;
+}
+.titDatos{
+    color: #03284f;
+    background-color: #f4f4f4;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight:700;
+    font-size: large;
+    border:.1px ;
+
+}
+.presentacion__enlaces__link{
+    background:linear-gradient(90deg,#eae3e3 0%, #a79797 96%,#6c6969 100%);
+    box-sizing: border-box;
+    display: flex;
+    border-radius: 10px;
+    padding: 8px 5px;
+
+    border: 1px solid #3d1c1c;
+}
+
+.links{
+    
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.Skills{
+    display: flex;
+    
+    gap:20px;
+}
+
+.first{
+    display: flex;
+    flex-direction:column;
+    align-content:end;
+    gap:10px;
+}
+
+
+
+.a .p{
+    display:flex;
+    align-items: flex-start;
+}
+.letter{
+    text-align: center;
+    font-style:oblique;
+}
+.adendum{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
